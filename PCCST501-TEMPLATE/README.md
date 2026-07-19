@@ -4,9 +4,9 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
+| Name |Anto Siju |
+| Register Number |VJC24CS044 |
+| GitHub Username |antosiju |
 | Class | S5 CSE |
 | College | Viswajyothi College of Engineering and Technology |
 
